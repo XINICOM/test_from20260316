@@ -22,3 +22,5 @@ pl.plot(x, y1, label=u"噪声数据")
 pl.plot(x, func(x, l[0]), marker='.',label=u"拟合数据")
 pl.legend()
 pl.show()
+
+# v0.1
